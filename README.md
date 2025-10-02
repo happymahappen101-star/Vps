@@ -1,4 +1,4 @@
-# Personal VPN
+# Terminal-X vpn
 ### Based on Shadowsocks with V2-Raу-plugin
 
 Click the button below to deploy, and remember to Star if it works:
